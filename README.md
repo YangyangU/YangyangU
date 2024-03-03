@@ -9,11 +9,10 @@
 <a href="https://leetcode.cn/u/akW3QdYBgn"><code><img height="20" width="50" src="./images/juejin.png"></code></a>
 
 
-<a href="https://space.bilibili.com/1769275177"><code><img height="20" width="50" src="./images/juejin.png"></code></a>
- bilibili：—— 情景剧导演 + 剪辑
+<a href="https://space.bilibili.com/1769275177"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：情景剧导演 + 剪辑
 
 
--   <a href="https://juejin.cn/user/4303915451167977/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金年度人气作者 No.20 | 创作等级 Lv.4
+<a href="https://juejin.cn/user/4303915451167977/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金年度人气作者 No.20 | 创作等级 Lv.4
 
 ### **技术栈:**
 
