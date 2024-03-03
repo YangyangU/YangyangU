@@ -1,33 +1,32 @@
+## Hi there 👋
 
-## 前端实习生 —— YangyangU
 
-大三在读。
+**My Skills:**<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YangyangU&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,js,nodejs,vue,pinia,webpack,vite,tailwind,less,git,mongodb,mysql&perline=6" />
+  </a>
+</p>
 
-### **个人社交**
+**Currently Learning:**
 
-<a href="https://leetcode.cn/u/akW3QdYBgn"><code><img height="30" width="40" src="./images/leetcode.png"></code></a>：170 + 算法题
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py&perline=6" />
+  </a>
+</p>
 
-<a href="https://space.bilibili.com/1769275177"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：情景剧导演 + 剪辑
+**Contact Me:**
 
-<a href="https://juejin.cn/user/4303915451167977/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金年度人气作者 No.20 | 创作等级 Lv.4
+<p>
+  <a href="https://space.bilibili.com/1769275177"><img alt="Static Badge" src="https://img.shields.io/badge/bilibili-ColourCode?style=flat-square&logo=bilibili&color=%23fb7299"></a>
+  <a href="https://github.com/YangyangU"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-ColourCode?style=flat-square&logo=GitHub&color=%23555555"></a>
+</p>
 
-<br>
+**Activity：**
 
-### **技术栈**
-
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://uniapp.dcloud.net.cn"><code><img height="20" src="./images/uni.png"></code></a>
-<a href="https://element-plus.org"><code><img height="20" src="./images/element plus.png"></code></a>
-<a href="https://vant-contrib.gitee.io/vant/#/zh-CN"><code><img height="20" src="./images/vant.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-
-<br>
-
-### Github 活跃度
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YangyangU&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YangyangU&theme=react-dark)
 
