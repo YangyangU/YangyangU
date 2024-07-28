@@ -2,7 +2,7 @@
 
 
 **My Skills:**<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YangyangU&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YangyangU&layout=compact&hide=html&langs_count=8&card_width=320" />
 </a>
 
 <p align="left">
