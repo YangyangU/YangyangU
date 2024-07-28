@@ -31,4 +31,3 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YangyangU&theme=react-dark)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YangyangU)](https://github.com/anuraghazra/github-readme-stats)
